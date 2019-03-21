@@ -1,0 +1,7 @@
+ 
+"# prject-A" >> README.md
+init
+add README.md
+commit -m "first commit"
+remote add origin https://github.com/RuimingHe/prject-A.git
+push -u origin mas
